@@ -1,0 +1,35 @@
+Added Component: Designator=SW1(SW_B3F-4050_OMR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW_B3F-4050_OMR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW_B3F-4050_OMR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW_B3F-4050_OMR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SW_B3F-4050_OMR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Button_1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=Button_2 Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=Button_3 Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=Button_4 Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW4-3
+Added Pin To Net: NetName=Button_5 Pin=SW5-1
+Added Pin To Net: NetName=GND Pin=SW5-3
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 B3F-4055
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 B3F-4055
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 B3F-4055
+Added Member To Class: ClassName=Sheet1 Member=Component SW4 B3F-4055
+Added Member To Class: ClassName=Sheet1 Member=Component SW5 B3F-4055

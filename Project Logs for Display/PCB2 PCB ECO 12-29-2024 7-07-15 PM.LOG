@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=Button_1 Pin=FPC1-2
+Removed Pin From Net: NetName=Button_2 Pin=FPC1-3
+Removed Pin From Net: NetName=Button_3 Pin=FPC1-4
+Removed Pin From Net: NetName=Button_4 Pin=FPC1-5
+Removed Pin From Net: NetName=Button_5 Pin=FPC1-6
+Removed Pin From Net: NetName=VCC Pin=FPC1-7
+Removed Pin From Net: NetName=MOSI Pin=FPC1-8
+Removed Pin From Net: NetName=SCLK Pin=FPC1-9
+Removed Pin From Net: NetName=RD Pin=FPC1-10
+Removed Pin From Net: NetName=R/W Pin=FPC1-11
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=Button_1 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=Button_2 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=Button_3 Pin=SW3-2
+Removed Pin From Net: NetName=GND Pin=SW4-1
+Removed Pin From Net: NetName=Button_4 Pin=SW4-2
+Removed Pin From Net: NetName=GND Pin=SW5-1
+Removed Pin From Net: NetName=Button_5 Pin=SW5-2
+Change Footprint: Footprint Not Found SW_B3F-4050_OMR
+Change Footprint: Footprint Not Found SW_B3F-4050_OMR
+Change Footprint: Footprint Not Found SW_B3F-4050_OMR
+Change Footprint: Footprint Not Found SW_B3F-4050_OMR
+Change Footprint: Footprint Not Found SW_B3F-4050_OMR
+Change Component Comment : Designator=SW1 Old Comment=B3U-1000P New Comment=B3F-4055
+Change Component Comment : Designator=SW2 Old Comment=B3U-1000P New Comment=B3F-4055
+Change Component Comment : Designator=SW3 Old Comment=B3U-1000P New Comment=B3F-4055
+Change Component Comment : Designator=SW4 Old Comment=B3U-1000P New Comment=B3F-4055
+Change Component Comment : Designator=SW5 Old Comment=B3U-1000P New Comment=B3F-4055
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "B3U-1000P"; UniqueID = "\WHVFBLFW" ("\WHVFBLFW")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "B3U-1000P"; UniqueID = "\CBDYNBXO" ("\CBDYNBXO")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "B3U-1000P"; UniqueID = "\HMNIHUHY" ("\HMNIHUHY")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "B3U-1000P"; UniqueID = "\SYWGTNQR" ("\SYWGTNQR")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW5" ("SW5"); Footprint = "B3U-1000P"; UniqueID = "\UWIQCYOL" ("\UWIQCYOL")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Omron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Button_1 Pin=FPC1-4
+Added Pin To Net: NetName=Button_2 Pin=FPC1-5
+Added Pin To Net: NetName=Button_3 Pin=FPC1-6
+Added Pin To Net: NetName=Button_4 Pin=FPC1-7
+Added Pin To Net: NetName=Button_5 Pin=FPC1-8
+Added Pin To Net: NetName=VCC Pin=FPC1-9
+Added Pin To Net: NetName=MOSI Pin=FPC1-10
+Added Pin To Net: NetName=SCLK Pin=FPC1-11
+Added Pin To Net: NetName=Button_1 Pin=SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Added Pin To Net: NetName=Button_2 Pin=SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Added Pin To Net: NetName=Button_3 Pin=SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Added Pin To Net: NetName=Button_4 Pin=SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Added Pin To Net: NetName=Button_5 Pin=SW5-1
+Add Pin To Net: Unknown Pin: Pin SW5-3
+Added Pin To Net: NetName=LED1 Pin=FPC1-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=FPC1-3
+Added Net: Name=LED2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 0603WAF100JT5E
+Added Room: Name=Sheet1

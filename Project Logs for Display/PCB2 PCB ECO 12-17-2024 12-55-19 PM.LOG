@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=FPC1-1
+Removed Pin From Net: NetName=VCC Pin=FPC1-8
+Removed Pin From Net: NetName=MOSI Pin=FPC1-9
+Removed Pin From Net: NetName=SCLK Pin=FPC1-10
+Change Component Footprint: Designator=FPC1 Old Footprint=FPC-SMD_10P-P0.50 New Footprint=FPC-SMD_16P-P0.50
+Change Component Comment : Designator=FPC1 Old Comment=FPC-05F-10PH15 New Comment=JS'
+Change Component Designator: OldDesignator=BOOT0 NewDesignator=SW5
+Change Component Designator: OldDesignator=Reset NewDesignator=SW1
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change component parameters: Designator = "FPC1" ("FPC1"); Footprint = "FPC-SMD_10P-P0.50"; UniqueID = "\CFOVGFJB" ("\CFOVGFJB")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230315/ED4197BB5E4D3F2F2F1CD16A13EF9832.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C5371162"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "AFH05-S14FIA-1H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,P=0.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=FPC1-1
+Added Pin To Net: NetName=MOSI Pin=FPC1-2
+Added Pin To Net: NetName=SCLK Pin=FPC1-3
+Added Pin To Net: NetName=CS Pin=FPC1-4
+Added Pin To Net: NetName=RD Pin=FPC1-5
+Added Pin To Net: NetName=R/W Pin=FPC1-6
+Added Pin To Net: NetName=DISP_RESET Pin=FPC1-7
+Added Pin To Net: NetName=RS Pin=FPC1-8
+Added Pin To Net: NetName=GND Pin=FPC1-14
+Added Pin To Net: NetName=Button_1 Pin=FPC1-9
+Added Pin To Net: NetName=Button_1 Pin=R1-2
+Added Pin To Net: NetName=Button_1 Pin=SW1-2
+Added Net: Name=Button_1
+Added Pin To Net: NetName=Button_2 Pin=FPC1-10
+Added Pin To Net: NetName=Button_2 Pin=R2-2
+Added Pin To Net: NetName=Button_2 Pin=SW2-2
+Added Net: Name=Button_2
+Added Pin To Net: NetName=Button_3 Pin=FPC1-11
+Added Pin To Net: NetName=Button_3 Pin=R3-2
+Added Pin To Net: NetName=Button_3 Pin=SW3-2
+Added Net: Name=Button_3
+Added Pin To Net: NetName=Button_4 Pin=FPC1-12
+Added Pin To Net: NetName=Button_4 Pin=R4-2
+Added Pin To Net: NetName=Button_4 Pin=SW4-2
+Added Net: Name=Button_4
+Added Pin To Net: NetName=Button_5 Pin=FPC1-13
+Added Pin To Net: NetName=Button_5 Pin=R5-2
+Added Pin To Net: NetName=Button_5 Pin=SW5-2
+Added Net: Name=Button_5

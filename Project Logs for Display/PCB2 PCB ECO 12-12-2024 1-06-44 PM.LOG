@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=SCLK Pin=J1-13
+Removed Pin From Net: NetName=MOSI Pin=J1-14
+Removed Pin From Net: NetName=VCC Pin=J1-15
+Removed Pin From Net: NetName=GND Pin=J1-16
+Removed Pin From Net: NetName=NetC8_2 Pin=J1-17
+Removed Pin From Net: NetName=NetC9_1 Pin=J1-18
+Removed Pin From Net: NetName=NetC7_1 Pin=J1-19
+Removed Pin From Net: NetName=NetC7_2 Pin=J1-20
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-21
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-22
+Removed Pin From Net: NetName=NetC2_2 Pin=J1-23
+Removed Pin From Net: NetName=NetC3_2 Pin=J1-24
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-25
+Removed Pin From Net: NetName=NetC5_2 Pin=J1-26
+Removed Pin From Net: NetName=NetC6_2 Pin=J1-27
+Removed Pin From Net: NetName=GND Pin=J1-28
+Change Component Footprint: Designator=J1 Old Footprint=FPC-SMD_30P-P0.50_L4.4-W20.6 New Footprint=COG
+Change Component Comment : Designator=J1 Old Comment=F0501-B-30-20T-R New Comment=COG display
+Added Pin To Net: NetName=SCLK Pin=J1-14
+Added Pin To Net: NetName=MOSI Pin=J1-15
+Added Pin To Net: NetName=VCC Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=NetC8_2 Pin=J1-18
+Added Pin To Net: NetName=NetC9_1 Pin=J1-19
+Added Pin To Net: NetName=NetC7_1 Pin=J1-20
+Added Pin To Net: NetName=NetC7_2 Pin=J1-21
+Added Pin To Net: NetName=NetC1_1 Pin=J1-22
+Added Pin To Net: NetName=NetC1_2 Pin=J1-23
+Added Pin To Net: NetName=NetC2_2 Pin=J1-24
+Added Pin To Net: NetName=NetC3_2 Pin=J1-25
+Added Pin To Net: NetName=NetC4_2 Pin=J1-26
+Added Pin To Net: NetName=NetC5_2 Pin=J1-27
+Added Pin To Net: NetName=NetC6_2 Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-30
+Change Net Name : Old Net Name=DISP_RESET New Net Name=CS
+Change Net Name : Old Net Name=R/W New Net Name=RS
+Change Net Name : Old Net Name=RD New Net Name=R/W
+Change Net Name : Old Net Name=RS New Net Name=DISP_RESET
+Added Pin To Net: NetName=RD Pin=J1-7
+Added Net: Name=RD
+Added Room: Name=Sheet1

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC Pin=FPC1-1
+Removed Pin From Net: NetName=MOSI Pin=FPC1-2
+Removed Pin From Net: NetName=SCLK Pin=FPC1-3
+Removed Pin From Net: NetName=CS Pin=FPC1-4
+Removed Pin From Net: NetName=RD Pin=FPC1-5
+Removed Pin From Net: NetName=R/W Pin=FPC1-6
+Removed Pin From Net: NetName=Button_1 Pin=FPC1-9
+Removed Pin From Net: NetName=Button_2 Pin=FPC1-10
+Removed Pin From Net: NetName=Button_3 Pin=FPC1-11
+Removed Pin From Net: NetName=Button_4 Pin=FPC1-12
+Removed Pin From Net: NetName=Button_5 Pin=FPC1-13
+Removed Pin From Net: NetName=GND Pin=FPC1-14
+Added Pin To Net: NetName=GND Pin=FPC1-1
+Added Pin To Net: NetName=Button_1 Pin=FPC1-2
+Added Pin To Net: NetName=Button_2 Pin=FPC1-3
+Added Pin To Net: NetName=Button_3 Pin=FPC1-4
+Added Pin To Net: NetName=Button_4 Pin=FPC1-5
+Added Pin To Net: NetName=Button_5 Pin=FPC1-6
+Added Pin To Net: NetName=R/W Pin=FPC1-9
+Added Pin To Net: NetName=RD Pin=FPC1-10
+Added Pin To Net: NetName=CS Pin=FPC1-11
+Added Pin To Net: NetName=SCLK Pin=FPC1-12
+Added Pin To Net: NetName=MOSI Pin=FPC1-13
+Added Pin To Net: NetName=VCC Pin=FPC1-14
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 B3U-1000P

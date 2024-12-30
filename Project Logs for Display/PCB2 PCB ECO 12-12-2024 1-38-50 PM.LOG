@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MOSI Pin=FPC1-2
+Removed Pin From Net: NetName=SCLK Pin=FPC1-3
+Removed Pin From Net: NetName=RESET Pin=FPC1-4
+Removed Pin From Net: NetName=PC6 Pin=FPC1-5
+Removed Pin From Net: NetName=PC7 Pin=FPC1-6
+Removed Pin From Net: NetName=PC8 Pin=FPC1-7
+Removed Pin From Net: NetName=BOOT0 Pin=FPC1-8
+Removed Pin From Net: NetName=VCC Pin=FPC1-9
+Added Pin To Net: NetName=RESET Pin=FPC1-3
+Added Pin To Net: NetName=PC6 Pin=FPC1-4
+Added Pin To Net: NetName=PC7 Pin=FPC1-5
+Added Pin To Net: NetName=PC8 Pin=FPC1-6
+Added Pin To Net: NetName=BOOT0 Pin=FPC1-7
+Added Pin To Net: NetName=VCC Pin=FPC1-8
+Added Pin To Net: NetName=MOSI Pin=FPC1-9
+Added Pin To Net: NetName=SCLK Pin=FPC1-10

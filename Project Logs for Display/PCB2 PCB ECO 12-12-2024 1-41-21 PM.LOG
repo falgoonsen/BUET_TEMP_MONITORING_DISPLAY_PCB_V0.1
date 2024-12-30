@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BOOT0 Pin=FPC1-2
+Removed Pin From Net: NetName=RESET Pin=FPC1-3
+Added Pin To Net: NetName=RESET Pin=FPC1-2
+Added Pin To Net: NetName=BOOT0 Pin=FPC1-3
